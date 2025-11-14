@@ -468,6 +468,8 @@ Here is a users build video showing this process.
 * Worst case you need to guide the black plug through the opening at the front side of the core.
 * After you get the wires through to the front, you should label them.
 
+* 99% of builds are going to use this endstop, homing to Xmin. The location for the second endstop located on the right side of the core (looking from the front!) are only for those who want to home to Xmax (not recommended for beginners, needs changes to the config).
+
 ---
 
 ![!LR4 Core assm](../img/lr4/cn.jpg){: loading=lazy width="600"}
