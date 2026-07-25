@@ -698,6 +698,8 @@ Start the YZ plates.
 
 ![!LR4 yz assm](../img/lr4/yzw4.jpg){: loading=lazy width="600"}
 
+Caution: if you have steppers with a twisted wire, untwist it before you start running them.
+
 * Run one wire at a time through the keeper, this makes it very easy.
 * Run the small wires through the wire keeper first
 * Then run the stepper wires to hold them all in.
